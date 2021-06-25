@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Measurement Converter</string>
+    <string-array name="conversionSpinner">
+        <item>Miles to Kilometer</item>
+        <item>Kilometer to Miles</item>
+        <item>Inches to Centimeter</item>
+        <item>Centimeter to Inches</item>
+    </string-array>
+</resources>
